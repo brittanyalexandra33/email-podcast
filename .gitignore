@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.secrets/
+secrets/
+out/
+*.mp3
+.env
+client_secret.json
+gmail_token.json
